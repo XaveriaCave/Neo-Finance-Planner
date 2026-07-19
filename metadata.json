@@ -1,0 +1,6 @@
+{
+  "name": "Neo Finance Planner",
+  "description": "A sophisticated financial planner and wealth projection tool featuring a neumorphic UI, real-time budget alerts, diverse portfolio ROI tracking, and monthly exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
